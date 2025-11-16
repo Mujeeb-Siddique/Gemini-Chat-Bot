@@ -1,8 +1,39 @@
-# React + Vite
+# Gemini-Chat-Bot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://mujeeb-siddique.github.io/Gemini-Chat-Bot/)
 
-Currently, two official plugins are available:
+A modern **Gemini-inspired AI chat bot** built with **React** and **Vite**, featuring interactive AI responses and a sleek interface.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🔥 Features
+
+- Interactive AI chat interface  
+- Clean and responsive UI  
+- Powered by Google Generative AI APIs  
+- Built with React, Vite, and modern web technologies  
+
+---
+
+## 💻 Demo
+
+Try it live here: [Gemini-Chat-Bot](https://mujeeb-siddique.github.io/Gemini-Chat-Bot/)  
+
+![Demo GIF](link-to-your-gif-or-screenshot.gif)  
+
+---
+
+## 🚀 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Mujeeb-Siddique/Gemini-Chat-Bot.git
+
+# Navigate into project
+cd Gemini-Chat-Bot
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
